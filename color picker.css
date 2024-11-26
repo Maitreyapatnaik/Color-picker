@@ -1,0 +1,217 @@
+body{
+    background-color: rgb(215, 219, 254);
+}
+h1{
+    height: 300px;
+    width: 88%;
+    border: 10px; 
+    padding: 30px ;
+    margin: auto;
+}
+.Box{
+    background-color: rgb(250, 251, 221);
+    height: 350px;
+    width: 40%;
+    border-color: black;
+    margin: auto;
+}
+.controls {
+    display: flex; /* Use Flexbox to arrange children side by side */
+    justify-content: space-around; /* Space out the divs evenly */
+    align-items: center; /* Center items vertically */
+    margin: 40px auto;
+}
+/*Three division tags*/
+.textColors{
+    background-color: antiquewhite;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}
+.bgColors{
+    background-color: antiquewhite;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}
+.fontstyles{
+    padding: auto;
+    background-color: antiquewhite;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}
+/*colors for background*/
+#BGcolor1{
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor2{
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor3{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor4{
+    background-color: aqua;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor5{
+    background-color: darkgoldenrod;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor6{
+    background-color: hotpink;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor7{
+    background-color: mediumblue;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor8{
+    background-color: lightcoral;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor9{
+    background-color: darkmagenta;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor10{
+    background-color: sienna;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+/*colors for text*/
+#color1{
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color2{
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color3{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color4{
+    background-color: aqua;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color5{
+    background-color: sienna;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color6{
+    background-color: darkmagenta;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color7{
+    background-color: lightcoral;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color8{
+    background-color: mediumblue;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color9{
+    background-color: yellow;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color10{
+    background-color: darkgoldenrod;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+/*fonts for text*/
+#Font1{
+    font-family: "Colonna MT";
+    width: 45px;
+    height: 50px;
+}
+#Font2{
+    font-family: "Times New Roman";
+    width: 45px;
+    height: 50px;
+}
+#Font3{
+    font-family: "SimSun-ExtB";
+    width: 45px;
+    height: 50px;
+}
+#Font4{
+    font-family: "FZShuTi";
+    width: 45px;
+    height: 50px;
+}
+#Font5{
+    font-family: "Microsoft Yi Baiti";
+    width: 45px;
+    height: 50px;
+}
+#Font6{
+    font-family: "PMingLiU-ExtB";
+    width: 45px;
+    height: 50px;
+}
+#Font7{
+    font-family: "MingLiU-ExtB";
+    width: 45px;
+    height: 50px;
+}
+#Font8{
+    font-family: "Gill Sans";
+    width: 45px;
+    height: 50px;
+}
+#Font9{
+    font-family: "Franklin Gothic";
+    width: 45px;
+    height: 50px;
+}
+#Font10{
+    font-family: "Forte";
+    width: 45px;
+    height: 50px;
+}
